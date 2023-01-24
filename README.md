@@ -11,4 +11,4 @@ Davinci-001 model to:
 For ease of working between programming and writing I use Jupyter Notebooks thru the writing prompts.
 
 ## Files:
-`StartResume.ipynb`. --> You'll want to use this file as a starting point, as I mentioned above, you'll have to give details about yourself.  I'm broken it down into a few intriguing questions.  
+`StartResume.ipynb` --> You'll want to use this file as a starting point, as I mentioned above, you'll have to give details about yourself.  I'm broken it down into a few intriguing questions.  
