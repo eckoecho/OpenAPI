@@ -1,4 +1,4 @@
-# OpenAPI
+# OpenAI
 
 If you are like me, I like writing prompts to kick off my creativty. These writing prompts are especially useful when having to write a professional description about your previous roles. I've created a script to ease any writer's block you may have!  
 There are some websites out there with this kind of concept but i find they don't have the robust feedback and damn near conciseness that OpenAI displays.
