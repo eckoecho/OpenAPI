@@ -7,8 +7,9 @@ This project incorporates [OpenAIs](https://beta.openai.com/docs/guides/completi
 * write a LinkedIn profile description based off of a small portion of text about yourself
 * ingest text from a PDF resume and adapt it to meet the job description of your choice
 
-## Prerequisits:
-For ease of working between programming and writing I use Jupyter Notebooks thru the writing prompts.
+## prerequisites:
+For ease of working between programming and writing I use [Jupyter Notebooks](https://jupyter.org/) thru the writing prompts.
 
 ## Files:
-`StartResume.ipynb` --> You'll want to use this file as a starting point, as I mentioned above, you'll have to give details about yourself.  I'm broken it down into a few intriguing questions.  
+`LinkedInProfile.ipynb` - Writing prompts and methodology I used to write my bio.
+`StartResume.ipynb` --> Takes your resume in PDF format, creates a string and inserts it into a prompt to re-create it based on a specified role.
