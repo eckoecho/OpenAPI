@@ -13,4 +13,4 @@ This project incorporates [OpenAIs](https://beta.openai.com/docs/guides/completi
 
 ## Files:
 `LinkedInProfile.ipynb` --> Writing prompts and methodology I used to write my bio. <br/>
-`StartResume.ipynb` --> Takes your resume in PDF format, creates a string and inserts it into a prompt to re-create it based on a specified role. <br/>
+`StartResume.ipynb` --> Takes your resume in PDF format, creates a string and inserts it into a prompt, resulting in an output to help you re-create your resume based on a specified role. <br/>
